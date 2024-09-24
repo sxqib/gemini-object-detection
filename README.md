@@ -2,7 +2,7 @@
 
 Gemini Object Detection is an AI-powered tool that leverages Google's Gemini 1.5 Flash models Image processing capabilities to identify objects within images. Upload an image, specify the objects you want to detect, and receive accurate bounding boxes and labels, all powered by the Gemini API.
 
-![Object Detection]([https://github.com/user-attachments/assets/7ab0fecd-69b0-4fb2-99e2-0e29e701ab66](https://raw.githubusercontent.com/sxqib/gemini-object-detection/main/demo.gif))
+![Object Detection](https://github.com/user-attachments/assets/7ab0fecd-69b0-4fb2-99e2-0e29e701ab66](https://raw.githubusercontent.com/sxqib/gemini-object-detection/main/demo.gif)
 
 ## Features
 
